@@ -20,7 +20,7 @@ aliyun:
     registerTempleteCode: SMS_150491805
     loginTempleteCode: SMS_150491807
   oss:
-    endpoint: oss-cn-beijing
+    endpoint: oss-cn-beijing.aliyuncs.com
     bucketName: cflp-cx
 
 # feign 
