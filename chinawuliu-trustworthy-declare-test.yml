@@ -29,11 +29,13 @@ trustworthy-cache:
   
 # 钛阳 
 trustworthy-ti:
-  service: zis-other-identity
-  serviceUrl: 11331-zis-other-identity.test.za-tech.net/v4/identities
+  service: zhongan.io
+  serviceUrl: https://test.zhongan.io
 
 # OCR
 trustworthy-ocr:
+  appKey: 
+  appSecret: 
   productId: Trustworthy
   channelId: Trustworthy
   token: 96984aee-e743-11e8-b301-00163e0002a7
