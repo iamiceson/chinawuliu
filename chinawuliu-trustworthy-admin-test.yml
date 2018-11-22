@@ -9,23 +9,24 @@ spring:
     password: cflp.trustworthy
     driverClassName: com.mysql.jdbc.Driver
 
-# aliyun config 
- aliyun:  
-  accessKeyId: LTAILMiOXiLVJFUj 
-  accessKeySecret: BJgQhk5qXInYFLNmNcuB95lN2TuO4U 
- sms: 
-  product: Dysmsapi 
-  domain: dysmsapi.aliyuncs.com 
-  signName: 中物联 
-  notifyTempleteCode: SMS_151575656
-  registerTempleteCode: SMS_150491805 
-  loginTempleteCode: SMS_150491807 
- oss: 
-  endpoint: oss-cn-beijing.aliyuncs.com 
-  bucketName: cflp-cx 
+# aliyun config
+aliyun: 
+  accessKeyId: LTAILMiOXiLVJFUj
+  accessKeySecret: BJgQhk5qXInYFLNmNcuB95lN2TuO4U
+  sms:
+    product: Dysmsapi
+    domain: dysmsapi.aliyuncs.com
+    signName: 中物联
+    registerTempleteCode: SMS_150491805
+    notifyTempleteCode: SMS_151575656
+    loginTempleteCode: SMS_150491807
+  oss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    bucketName: cflp-cx
 
- # feign  
- trustworthy-cache: 
-  service: chinawuliu-trustworthy-cache 
- trustworthy-declare: 
-  service: chinawuliu-trustworthy-declare
+# feign 
+trustworthy-cache:
+    service: chinawuliu-trustworthy-cache
+  
+trustworthy-declare:
+    service: chinawuliu-trustworthy-declare
