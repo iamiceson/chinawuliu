@@ -34,6 +34,8 @@ trustworthy-anlink:
   
 # 钛阳 
 trustworthy-ti:
+  appKey: VyWudNeobgCdxJJofr5lUP05uvMKOg
+  appSecret: RlpbEqGUCxLVCJiqRmik0Ls35L7Kiv
   service: zhongan.io
   serviceUrl: https://test.zhongan.io
 
