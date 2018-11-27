@@ -36,8 +36,8 @@ trustworthy-anlink:
 trustworthy-ti:
   appKey: VyWudNeobgCdxJJofr5lUP05uvMKOg
   appSecret: RlpbEqGUCxLVCJiqRmik0Ls35L7Kiv
-  service: zhongan.io
-  serviceUrl: https://test.zhongan.io
+  service: www.zhongan.io
+  serviceUrl: https://www.zhongan.io
 
 # OCR
 trustworthy-ocr:
