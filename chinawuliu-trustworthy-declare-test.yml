@@ -34,13 +34,12 @@ trustworthy-ti:
 
 # OCR
 trustworthy-ocr:
-  appKey: 
-  appSecret: 
+  appKey: 8162bcbc2aad43da884b88670d245626
+  appSecret: PK7GtCW1oSBA45D8Qqj4hRsJON7O1MUs
   productId: Trustworthy
   channelId: Trustworthy
-  token: 96984aee-e743-11e8-b301-00163e0002a7
   service: za-ocr-business
-  serviceUrl: 18043-zis-labs-za-ocr-business.test.za.net
+  serviceUrl: https://api.anlink.tech
   
 # 钛阳 
 chinawuliu:
