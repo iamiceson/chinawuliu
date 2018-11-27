@@ -50,5 +50,7 @@ trustworthy-ocr:
   
 # 钛阳 
 chinawuliu:
+  appId: zwl123
+  appKey: fc85356371b6771522b5eb2c6a501af3
   service: chinawuliu
   serviceUrl: http://api.jkcredit.com:8080/
