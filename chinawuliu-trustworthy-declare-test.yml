@@ -41,3 +41,8 @@ trustworthy-ocr:
   token: 96984aee-e743-11e8-b301-00163e0002a7
   service: za-ocr-business
   serviceUrl: 18043-zis-labs-za-ocr-business.test.za.net
+  
+# 钛阳 
+chinawuliu:
+  service: chinawuliu
+  serviceUrl: http://api.jkcredit.com:8080/
