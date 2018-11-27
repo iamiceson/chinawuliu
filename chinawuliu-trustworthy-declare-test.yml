@@ -26,6 +26,11 @@ aliyun:
 # feign 
 trustworthy-cache:
   service: chinawuliu-trustworthy-cache
+
+# 钛阳 
+trustworthy-anlink:
+  service: oauth.anlink.tech
+  serviceUrl: https://oauth.anlink.tech
   
 # 钛阳 
 trustworthy-ti:
